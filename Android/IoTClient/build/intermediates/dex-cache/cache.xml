@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\pre-dexed\debug\classes-67ab7a74f998085cccb6c52413bf476e01ace2d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\pre-dexed\debug\classes-c14aecf5c01e2dcc48ce39d920c559016dbe9f46.jar" />
+    </item>
+    <item
+        jar="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\pre-dexed\debug\classes-0aeb6843e6499ec40162772dcf7577177b7b6416.jar" />
+    </item>
+    <item
+        jar="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\pre-dexed\debug\classes-90f9fd1a07193438915ffc52a19bc6e732ea71e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\dolek\AndroidStudioProjects\IoTClient\app\build\intermediates\pre-dexed\debug\classes-29e83a22cd9810d7ea9b6a2840ebbcc7d7ba3c7d.jar" />
+    </item>
+
+</items>

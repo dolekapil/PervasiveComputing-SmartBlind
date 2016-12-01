@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsonrpc2-client-1.14.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jsonrpc2-client-1.14.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

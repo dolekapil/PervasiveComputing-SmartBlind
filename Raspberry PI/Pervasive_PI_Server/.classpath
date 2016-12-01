@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-base-1.35.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-base-1.35-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-client-1.14.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-client-1.14.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-server-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/jsonrpc2-server-1.10.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/json-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/pi4j-service.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_Project1/libs/gcm.server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/gcm.server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-base-1.35.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-base-1.35-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-client-1.14.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-client-1.14.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-server-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/jsonrpc2-server-1.10.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/json-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kapil/workspace/Pervasive_PI_Server/libs/pi4j-service.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

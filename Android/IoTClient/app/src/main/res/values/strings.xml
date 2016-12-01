@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PervasiveMobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ui_label_serverURL">Server URL</string>
+    <string name="ui_et_serverURL_default">127.0.0.1:8080</string>
+    <string name="ui_label_requestMethod">JSON request method:</string>
+    <string name="ui_et_requestMethod_default">getTime</string>
+    <string name="ui_label_response_default">Server current time</string>
+    <string name="ui_btn_sendRequest">Send Request</string>
+    <string name="title_activity_second">RuleActivity</string>
+    <string name="title_activity_add_rule">AddRuleActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_edit_rule">EditRuleActivity</string>
+
+</resources>
